@@ -1,1 +1,1 @@
-my first vmark doc
+我想把这个仓库做为后续笔记的积累，记录我日常的一些idea
